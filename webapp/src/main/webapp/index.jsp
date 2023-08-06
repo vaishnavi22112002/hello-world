@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> Enter Firstname </label>         
+<label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
