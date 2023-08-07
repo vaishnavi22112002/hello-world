@@ -9,11 +9,11 @@ Registration Page
 <br>  
 <form>  
   
-<label> First-Name </label>         
+<label> FirstName </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label> Middle-name: </label>     
+<label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label> Last-name: </label>         
+<label> Lastname: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
 <label>   
